@@ -47,3 +47,6 @@
 
 .claude
 CLAUDE.md
+*.pdf
+typst/
+md/
